@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": ".vscode",
+			"path": "glfw-3.4.bin.WIN64/glfw-3.4.bin.WIN64/.vscode"
+		},
+		{
+			"name": "include",
+			"path": "glfw-3.4.bin.WIN64/glfw-3.4.bin.WIN64/include"
+		},
+		{
+			"name": "lib-mingw-w64",
+			"path": "glfw-3.4.bin.WIN64/glfw-3.4.bin.WIN64/lib-mingw-w64"
+		},
+		{
+			"name": "src",
+			"path": "glad/src"
+		}
+	]
+}
